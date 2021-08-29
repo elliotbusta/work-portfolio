@@ -4362,8 +4362,10 @@ input, select, textarea {
 			min-height: 100vh;
 		}
 
-		.banner.style5.halfscreen {
-			min-height: 50vh;
+		.banner.style5.sixtyscreen {
+			min-height: 60vh;
+			max-height: 80vh;
+			max-width: 60vw;
 		}
 
 		.banner.style5.content-align-left {
