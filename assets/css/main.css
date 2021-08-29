@@ -5771,6 +5771,10 @@ input, select, textarea {
 			min-height: 50vh;
 		}
 
+		.spotlight.style5.threeqscreen {
+			min-height: 75vh;
+		}
+
 		.spotlight.style5.orient-left {
 			-moz-justify-content: -moz-flex-start;
 			-webkit-justify-content: -webkit-flex-start;
