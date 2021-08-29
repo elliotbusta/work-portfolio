@@ -4363,8 +4363,7 @@ input, select, textarea {
 		}
 
 		.banner.style5.sixtyscreen {
-			min-height: 60vh;
-			min-width: 60vw;
+			min-height: 60vw;
 		}
 
 		.banner.style5.content-align-left {
