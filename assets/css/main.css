@@ -4362,6 +4362,10 @@ input, select, textarea {
 			min-height: 100vh;
 		}
 
+		.banner.style5.halfscreen {
+			min-height: 50vh;
+		}
+
 		.banner.style5.content-align-left {
 			text-align: left;
 		}
@@ -5769,10 +5773,6 @@ input, select, textarea {
 
 		.spotlight.style5.halfscreen {
 			min-height: 50vh;
-		}
-
-		.spotlight.style5.threeqscreen {
-			min-height: 75vh;
 		}
 
 		.spotlight.style5.orient-left {
